@@ -1,0 +1,6 @@
+com\kaiburr\task_manager\KubernetesService.class
+com\kaiburr\task_manager\TaskController.class
+com\kaiburr\task_manager\TaskExecution.class
+com\kaiburr\task_manager\Task.class
+com\kaiburr\task_manager\TaskRepository.class
+com\kaiburr\task_manager\TaskManagerApplication.class
