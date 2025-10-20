@@ -8,13 +8,13 @@ A simple **React** web application for managing tasks with command execution cap
 
 | Feature | Screenshot |
 |----------|-------------|
-| **Dashboard UI** | ![Dashboard UI](./screenshots/Dashboard%20ui.png) |
-| **Create Task** | ![Create Task](./screenshots/createtask.png) |
-| **Task Lists** | ![Task Lists](./screenshots/tasklists.png) |
-| **Checking Created Task** | ![Checking Created Task](./screenshots/checking-createdtask.png) |
-| **Checking Deleted Task** | ![Checking Deleted Task](./screenshots/checking-deletedtask.png) |
-| **Delete Task** | ![Delete Task](./screenshots/deletetask.png) |
-| **Pod Creation & Backend Running** | ![Pod Creation and Backend Running](./screenshots/podcreation-and-backendrunning.png) |
+| **Dashboard UI** | ![Dashboard UI](screenshots/Dashboard%20ui.png) |
+| **Create Task** | ![Create Task](screenshots/createtask.png) |
+| **Task Lists** | ![Task Lists](screenshots/tasklists.png) |
+| **Checking Created Task** | ![Checking Created Task](screenshots/checking-createdtask.png) |
+| **Checking Deleted Task** | ![Checking Deleted Task](screenshots/checking-deletedtask.png) |
+| **Delete Task** | ![Delete Task](screenshots/deletetask.png) |
+| **Pod Creation & Backend Running** | ![Pod Creation and Backend Running](screenshots/podcreation-and-backendrunning.png) |
 
 ---
 
